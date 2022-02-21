@@ -1,5 +1,4 @@
-# how-to-deployment-old-centos-version-centos-7.4-on-AWS-repair
-
+# how-to-deployment-old-centos-version-centos-7.4-on-AWS-repair / 如何在AWS全球region中，找到旧版本的官方centos 7.4，并创建EC2
 
 
 how-to-deployment-old-centos-version-centos-7.x-on-AWS-repair 感觉之前的的不清楚，重新写一遍步骤：
