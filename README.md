@@ -149,6 +149,18 @@ Linux version 3.10.0-957.1.3.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gc
 
 
  
- 
+ ## 中国区的centos 8.0 版本
+
+<img width="772" alt="image" src="https://user-images.githubusercontent.com/32609181/204451743-a7ca88f4-bc0a-40b6-85d8-7cb8c041da59.png">
+
+<img width="828" alt="image" src="https://user-images.githubusercontent.com/32609181/204451759-9ed05eba-fb70-49e5-843e-0c5e60d11edb.png">
+
+结论：
+centos8 - 4.18.0-348.7.1.el8_5.x86_64 = ami-0cf85527e94362217
+
+$ uname -r
+4.18.0-348.7.1.el8_5.x86_64
+
+
 
 
