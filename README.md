@@ -136,6 +136,19 @@ cat /proc/version
 
 
 
+== 
+中国区的centos 7.6版本
+CentOS 7.6.1810-Linux version 3.10.0-957.1.3.el7.x86_64 = ami-0d8487330873f710c
+CentOS 7.6.1810-Linux version 3.10.0-957.1.3.el7.x86_64 ,  AMI NAME = ami-0d8487330873f710c
+Linux version 3.10.0-957.1.3.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-36) (GCC) ) #1 SMP Thu Nov 29 14:49:43 UTC 2018
 
+<img width="820" alt="image" src="https://user-images.githubusercontent.com/32609181/204427111-6f5383fe-e56b-44c8-8637-b273640e12f7.png">
+
+![image](https://user-images.githubusercontent.com/32609181/204427137-12ad8d3c-eb90-4f40-a232-fb48b40a2b80.png)
+最近有许多同事问CentOS 7.6，这个1901_01就是CentOS 7.6,请知晓￼
+
+
+ 
+ 
 
 
