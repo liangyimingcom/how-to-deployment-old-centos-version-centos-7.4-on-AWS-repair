@@ -1,9 +1,22 @@
 # how-to-deployment-old-centos-version-centos-7.4-on-AWS-repair / 如何在AWS全球region中，找到旧版本的官方centos 7.4，并创建EC2
 
 
+## 2024年12月的更新版本：
+1）用这个链接，用标准方式创建：
+
+https://us-east-2.console.aws.amazon.com/ec2/home?region=us-east-2#LaunchInstances:ami=ami-05a36e1502605b4aa;product=d9a3032a-921c-4c6d-b150-bde168105e42
+
+2）创建成功后：AMI location
+aws-marketplace/CentOS-7-2111-20220825_1.x86_64-d9a3032a-921c-4c6d-b150-bde168105e42
+
+3）最后的版本我开机检查过了，版本是：CentOS Linux release 7.9.2009 (Core)
+
+4）centos7免费的AMI地址：https://aws.amazon.com/marketplace/pp/prodview-foff247vr2zfw
+直接在这个页面点击订阅，然后开启EC2就好用。
+
+
+--- 
 how-to-deployment-old-centos-version-centos-7.x-on-AWS-repair 感觉之前的的不清楚，重新写一遍步骤：
-
-
 
 ### 1、先确认你要在哪一个区域创建老版本的Cent OS
 
